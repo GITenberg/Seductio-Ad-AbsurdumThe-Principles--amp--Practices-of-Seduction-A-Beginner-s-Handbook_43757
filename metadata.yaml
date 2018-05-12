@@ -1,0 +1,33 @@
+_repo: Seductio-Ad-AbsurdumThe-Principles--amp--Practices-of-Seduction-A-Beginner-s-Handbook_43757
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43757-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hahn, Emily
+    aliases:
+    - Boxer, Emily
+    - Hahn, Mickey
+    birthdate: 1905
+    deathdate: 1997
+    gutenberg_agent_id: '42282'
+    url: http://www.gutenberg.org/2009/agents/42282
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Hahn
+description: ''
+gutenberg_issued: '2013-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43757'
+  lccn: '30010481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship'
+- !lcc 'HQ'
+title: 'Seductio Ad Absurdum
+
+  The Principles & Practices of Seduction, A Beginner''s Handbook'
+url: http://www.gutenberg.org/ebooks/43757
